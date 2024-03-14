@@ -26,6 +26,14 @@ in a downstream pipeline.
 
 See [Hermes](./sgtm/hermes/README.md).
 
+### Artemis
+
+**Use case**: Retrieving entire documents from a Firestore database. Can be used
+to access data that can not be found on the website such as user transaction 
+history, audience segmentation, or other data which should not be exposed
+
+See [Hermes](./sgtm/hermes/README.md).
+
 ## Disclaimer
 __This is not an officially supported Google product.__
 
